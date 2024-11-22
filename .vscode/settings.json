@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "dart.flutterHotReloadOnSave": "all",
+    "files.autoSave": "off",
+    "files.autoSaveDelay": 500
+}

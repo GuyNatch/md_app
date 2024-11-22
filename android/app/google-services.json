@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344716341428",
+    "project_id": "mdapp-d52ba",
+    "storage_bucket": "mdapp-d52ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344716341428:android:4cc4aeeaf8867bc19d27e1",
+        "android_client_info": {
+          "package_name": "com.example.md_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdoZIAxu_grqBEtJSnqrFNfn4E9oBqBtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

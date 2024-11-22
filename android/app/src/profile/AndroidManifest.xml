@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="com.example.yourappname">
+
+<!-- Permissions -->
+<uses-permission android:name="android.permission.INTERNET"/>
+
+<application
+    android:label="YourAppName"
+    android:icon="@mipmap/ic_launcher">
+    <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="AIzaSyBATHyAEPk-PUrNr47QMRn79gSJYlBi35s" />
+</application>
+</manifest>
